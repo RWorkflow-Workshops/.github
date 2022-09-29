@@ -1,4 +1,4 @@
-# [WSDS GitHub Workshop Oct 6 8am-12pm]([https://nmfs-opensci.github.io/](https://ww2.amstat.org/meetings/wsds/2022/courses.cfm)) 
+# [WSDS GitHub Workshop Oct 6 8am-12pm]([https://nmfs-opensci.github.io/](https://ww2.amstat.org/meetings/wsds/2022/courses.cfm)
 
 <img align="right" src="https://raw.githubusercontent.com/rworkflow-workshops/assets/main/logo/logo.png" width="40%">  
 
