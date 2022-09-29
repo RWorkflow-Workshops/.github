@@ -2,7 +2,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/2545978/193091073-6b38734f-cd28-4946-ab2a-bebdb223d3cb.png" width="20%">  
 
-We are looking forward to seeing you on October 6th. Before the workshop, please send the organizers your GitHub username so we can add you to the workshop GitHub repositories that you will use.
+We are looking forward to seeing you on October 6th. **Before the workshop, please send the organizers your GitHub username so we can add you to the workshop GitHub repositories that you will use.**
 
 ## Git-ting It Together: Learn to Use Git and GitHub for Your Projects
 
