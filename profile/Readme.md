@@ -11,7 +11,7 @@ Instructor(s):
 * [Elizabeth “Eli” Holmes](https://github.com/eeholmes), NOAA Fisheries, Northwest Fisheries Science Center <a href = "mailto: eli.holmes@noaa.gov">Send Email</a>
 * [Emily Markowitz](https://github.com/EmilyMarkowitz-NOAA), NOAA Fisheries, Alaska Fisheries Science Center
 
-[YouTube Playlist](https://www.youtube.com/playlist?list=PLDqZV53PcnYw2tasRjKJPASwPaVutuLGW)
+<!-- [YouTube Playlist](https://www.youtube.com/playlist?list=PLDqZV53PcnYw2tasRjKJPASwPaVutuLGW) -->
 
 Git and GitHub are used throughout the data science community, not just to keep track of code changes but also for project management and sharing of research. This workshop will get you up and running with Git and GitHub and teach you how to use some of the most powerful features. By the end of this workshop, you will be able to use Git and GitHub in the browser to create GitHub repositories; fork repositories, add content, and push back to the main repository; browse the state of your repository content at points in the past; make releases; and organize a project using GitHub issues and a project board. No prerequisites besides a GitHub account. Bring a laptop to access GitHub via a browser.
 
