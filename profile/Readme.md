@@ -6,6 +6,8 @@ We are looking forward to seeing you on October 6th. **Before the workshop, plea
 
 ## Git-ting It Together: Learn to Use Git and GitHub for Your Projects
 
+**[WSDS repository](https://github.com/RWorkflow-Workshops/WSDS-StLouis)**
+
 Instructor(s):
 
 * [Elizabeth “Eli” Holmes](https://github.com/eeholmes), NOAA Fisheries, Northwest Fisheries Science Center <a href = "mailto: eli.holmes@noaa.gov">Send Email</a>
